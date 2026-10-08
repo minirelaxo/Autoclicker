@@ -1,6 +1,8 @@
 import tkinter as tk
 import pyautogui
 import tkinter.messagebox as messagebox
+import time
+import Backend
 
 fenster = tk.Tk()
 fenster.resizable(True, True)
