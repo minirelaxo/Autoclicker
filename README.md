@@ -1,4 +1,4 @@
-# Nova Autoclicker- hallo lasse
+# Nova Autoclicker
 
 Ein selbst entwickeltes Autoclicker-Projekt mit dem Ziel, einen besseren und
 einfach zu bedienenden Autoclicker zu bauen.
